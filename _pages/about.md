@@ -1,6 +1,6 @@
 ---
 permalink: /background/
-title: "Background"
+title: "Mini-Project"
 ---
 
 
