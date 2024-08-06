@@ -6,19 +6,27 @@ layout: home
 author_profile: true
 ---
 
-Complex numbers are numbers with a *real component* and an *imaginary component*, in the form \\(a+bi\\), where \\(a\\) and \\(b\\) are **real numbers** and \\(i\\) is the ***imaginary unit***.
 
-An extended explanation of complex numbers can be found [here](https://en.wikipedia.org/wiki/Complex_number). 
+- Project Idea: Use quantum computing and Quantum Algorithms in Supply Chain Optimization Using Big Data Analytics
 
-It might be helpful to visualize complex numbers on the complex plane:
-![Complex plane](https://upload.wikimedia.org/wikipedia/commons/5/57/90-Degree_Rotations_in_the_Complex_Plane.png)
 
-Complex can also be represented in polar form as seen below
-[![Polar form](https://www.songho.ca/math/euler/files/euler17.png)](https://www.songho.ca/math/euler/files/euler17.png)
+- Background: “The latest in a long line of disruptions and threats to supply chains—and all business operations— is imminent, yet only 12% of supply chain executives predict that quantum computing capability will be incorporated into supply chain operations by 2025” [^1] 
+- “A big data field stands to gain the most from quantum computing. Quantum computers can process and analyze large datasets much faster than regular computers, which lets them give insights almost instantly. This feature will be very important in fields like finance and logistics, where decisions need to be made right away based on data analysis.” [^2]
 
-To understand how the polar form is derived, check out this video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lFT2hwsCMls?si=FjyVszUhlQZYRfBt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  
+- Motivation: Identify and create algorithms that can be applicable to more supply chains in retail stores since most stores are not utilizing the quantum computing technology that has been developed. 
 
-Complex numbers are important in quantum mechanics and computing, (explanation of concept)[^1]
+- Tools/Techniques: 
+We will need to use linear algebra to use quantum gates and eigen values. Optimization theory will also be used for algorithms such as the quantum approximate optimization algorithm. We will also need to determine the probability that a customer will purchase various products, and use that to predict the number of items to produce. We must also use quantum annealing to optimize the minimum number of products to purchase, and Quantum Fourier Transform  (QFT) to see whether customers have different buying patterns during different seasons, etc. 
 
-[^1]: [Scientific American](https://www.scientificamerican.com/article/quantum-physics-falls-apart-without-imaginary-numbers/)
+- Goals: This project will allow more retail stores to incorporate quantum algorithms, and therefore face lower losses in waste of items.  After MathQuantum, I hope to pursue math and computer science in college and explore quantum computing 
+
+[^1]: [Quantum computing in supply chain](https://www.ibm.com/downloads/cas/KOQZNQPL)
+[^2]: [The Impact of Quantum Computing on Data Analytics](https://www.cogentuniversity.com/post/the-impact-of-quantum-computing-on-data-analytics)
+
+
+
+
+
+
+
