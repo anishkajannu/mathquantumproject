@@ -4,7 +4,7 @@ title: "Background"
 ---
 
 
-- Project Idea: Use quantum computing and Quantum Algorithms in Supply Chain Optimization Using Big Data Analytics
+- **Project Idea:** Use quantum computing and Quantum Algorithms in Supply Chain Optimization Using Big Data Analytics
 
 
 - Background: “The latest in a long line of disruptions and threats to supply chains—and all business operations— is imminent, yet only 12% of supply chain executives predict that quantum computing capability will be incorporated into supply chain operations by 2025” [^1] 
