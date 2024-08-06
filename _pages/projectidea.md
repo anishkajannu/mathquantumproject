@@ -1,7 +1,7 @@
 ---
 title: "Project Idea"
 excerpt: "Use quantum computing and Quantum Algorithms in Supply Chain Optimization Using Big Data Analytics"
-sitemap: false
+sitemap: true
 permalink: /projectidea.html
 ---
 
